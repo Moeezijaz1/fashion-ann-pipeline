@@ -1,0 +1,9 @@
+tensorflow
+dvc
+dvc-gdrive
+pyOpenSSL==24.2.1
+cryptography
+pyyaml
+scikit-learn
+matplotlib
+pandas
